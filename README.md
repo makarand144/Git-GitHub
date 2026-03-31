@@ -1,2 +1,2 @@
-# Git-GitHub---demo
+# Git-GitHub
 This is a Git &amp; GitHub file 
